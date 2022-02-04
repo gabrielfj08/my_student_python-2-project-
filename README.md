@@ -10,6 +10,6 @@
 <hr />
 
 ### RESULTADO:
-<img src="https://user-images.githubusercontent.com/98466182/152585640-d4f3ea22-46f7-404a-9d64-b19d0eb2c9b6.PNG" align="left" align="top" width="450" />
+<img src="https://user-images.githubusercontent.com/98466182/152585640-d4f3ea22-46f7-404a-9d64-b19d0eb2c9b6.PNG" align="left" align="top" width="400" />
 <img src="https://user-images.githubusercontent.com/98466182/152586266-9fe3595a-fe63-4453-b6e9-b8714beab7ad.PNG" align="right" align="top" width="450" height="300" />
 
