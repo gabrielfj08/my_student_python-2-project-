@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cadastro/login</title>
+</head>
+<body>
+    <form action="main.py" method="post">
+        <div>
+            <label for="name" class="title">name</label>
+            <input type="text" id="name" name="name" />
+        </div>
+        <div>
+            <label for="email" id="email" name="email">email</label>
+            <input type="email" id="email" name="email" />
+        <div>
+            <span class="title">gender:</span>
+            <input type="radio" name="gender" id="male" value="M"/>
+            <label for="male">Male</label>
+            <input type="radio" name="gender" id="female" value="F"/>
+            <label for="female">female</label><br />
+        </div>
+        <div>
+            <input type="submit" value="Register" id="submit" />
+        </div>
+    </form>
+</body>
+</html>
